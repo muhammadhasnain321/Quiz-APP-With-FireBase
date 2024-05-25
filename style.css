@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/solid-light-blue-background-q4ei4i2ruw3b5gp9.jpg);
+    background-repeat: no-repeat;
+    background-position: 0%;
+    background-size: 170%;
+    
+}
+.bor{
+   margin-top: 50px;
+    width: 30%;
+    height: 50%;
+    /* border: 1px solid; */
+   
+
+}
+.btn{
+    background-color: #61B55D;
+}
